@@ -1,5 +1,12 @@
-# OPM-MPE-TiltEmContinued-Patch
-(THIS IS THE README FILE)
+VER. 0.02
+
+What's new?
+
+Changes to the moons of Urlum. They now orbit correctly.
+Asteroids spawn correctly around Sarnus and Urlum respectively.
+
+Thanks for installing my patch!
+
 To Install:
 
 1. Make sure you have in your GameData folder the following mods:
